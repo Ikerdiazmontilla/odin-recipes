@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>The best crema catalana</h1>
+    <img src="../images/crema_catalana.jpg" alt="An irresistible crema catalana">
     <h2>Description</h2>
     <p>Experience the sweetness of tradition with this classic
          recipe for a rich, aromatic dessert. Whether you like it extra sweet or moderately 
@@ -16,6 +17,6 @@
          of cinnamon take you on a sensory journey.
          It's more than just a dessert; it's an embrace of culture and warmth.</p>
 
-         
+
 </body>
 </html>
